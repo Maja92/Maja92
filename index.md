@@ -1,7 +1,7 @@
 
 # Admajah Ordonez's Portfolio 
 
-Hello I'm a Electrical Engineering major at CSUF and i PLan on graduating in 2028.
+Hello I'm a Electrical Engineering major at CSUF and I plan on graduating in 2028.
 
 ## Favorite CPSC 120L Labs
 
